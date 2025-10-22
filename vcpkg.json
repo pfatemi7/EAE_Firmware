@@ -1,0 +1,11 @@
+{
+  "name": "eae-firmware",
+  "version": "1.0.0",
+  "builtin-baseline": "7220a4eebf20515cdd9c34721e15ca082bae9038",
+  "dependencies": [
+    {
+      "name": "gtest",
+      "version>=": "1.14.0"
+    }
+  ]
+}
